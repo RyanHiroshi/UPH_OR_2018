@@ -1,7 +1,7 @@
 #Product A = x
 #Product B = y
 
-#Persamaan
+#Model
 #-0.2x + 0.8y <= 0
 #x            <= 100
 #2x    + 4y   <= 240
